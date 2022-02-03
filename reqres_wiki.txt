@@ -1,0 +1,10 @@
+Navi Api automation
+
+1- Creating Maven project
+2- Using rest assured open library
+    io.rest assured
+    json-path
+    com.google -- for json mapping
+    org.json
+3- TestNG for executing scripts
+
